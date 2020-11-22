@@ -1,0 +1,153 @@
+body {
+    text-align: center;
+    background-color: pink;
+
+}
+
+img {
+    height: 300px;
+    border-radius: 50%;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 892px;
+    margin-right: 837px;
+}
+
+hr {
+    height: 20px;
+    width: 320px;
+    background-color: purple;
+}
+
+#hobby1 {
+    text-shadow: 2px 2px #ff69b4;
+    font-size: 70px;
+    font-family: 'Italianno', cursive;
+}
+
+#hobby_bio {
+    padding: 20px;
+    font-size: 40;
+    text-align: center;
+    color: purple;
+}
+
+#hobby2 {
+    font-size: 60px;
+    text-shadow: 2px 2px yellow;
+    font-family: 'Great Vibes', cursive;
+}
+
+.link {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 24px;
+    font-size: 50px;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Sacramento', cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: fuchsia;
+    background-color: pink;
+}
+
+.link:hover {
+    color: aqua;
+    background-color: white;
+}
+
+#welcome {
+    text-align: center;
+    background-image: linear-gradient(to top, pink 30%, cyan);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+#about {
+    background-color: #ffe135;
+    width: 100%;
+}
+
+#heading_about {
+    font-size: 100px;
+    color: #9966cc;
+    font-family: 'Norican', cursive;
+}
+
+#hobby{
+    background-image:linear-gradient(to top, yellow 30%, cyan);
+}
+
+#review{
+    font-family: 'Parisienne', cursive;
+    font-size: 40;
+    color: fuchsia;
+}
+
+#owls{
+    font-family: 'Parisienne', cursive;
+    font-size: 40;
+    color: fuchsia;
+}
+
+#para{
+    font-family: 'Parisienne', cursive;
+    font-size: 40;
+    color: fuchsia;
+}
+#hobby iframe{
+    width:50%;
+}
+
+#My Work{
+    background-image:linear-gradient(to top, #7cfc00 30%, pink);
+}
+
+#button1 {
+  background-color: #ff69b4;
+  border: none;
+  color: cyan;
+}
+
+#button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+#button1:hover {
+  background-color:#ff69b4;
+  color: white;
+}
+
+#pic1{
+    border-radius: 0%;
+    height: 457px;
+   transition: transform .2s;
+    border: 10px solid cyan;
+}
+
+#pic2{
+    border-radius: 0%;
+    height: 457px;
+   transition: transform .2s;
+    border: 10px solid cyan;
+}
+
+#my inspiration{
+    background-image:linear-gradient(to top, cyan 30%, white);
+}
+
+img:hover{
+    transform: scale(0.9)
+}
+
+h2{
+    color: deeppink;
+}
+
